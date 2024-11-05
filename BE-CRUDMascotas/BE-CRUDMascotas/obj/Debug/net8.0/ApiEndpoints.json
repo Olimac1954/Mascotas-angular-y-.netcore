@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "BE_CRUDMascotas.Controllers.MascotaController",
+    "Method": "Get",
+    "RelativePath": "api/Mascota",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_CRUDMascotas.Controllers.MascotaController",
+    "Method": "Post",
+    "RelativePath": "api/Mascota",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mascotaDTO",
+        "Type": "BE_CRUDMascotas.Models.DTO.mascotaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_CRUDMascotas.Controllers.MascotaController",
+    "Method": "Get",
+    "RelativePath": "api/Mascota/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_CRUDMascotas.Controllers.MascotaController",
+    "Method": "Delete",
+    "RelativePath": "api/Mascota/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE_CRUDMascotas.Controllers.MascotaController",
+    "Method": "put",
+    "RelativePath": "api/Mascota/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mascotaDTO",
+        "Type": "BE_CRUDMascotas.Models.DTO.mascotaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

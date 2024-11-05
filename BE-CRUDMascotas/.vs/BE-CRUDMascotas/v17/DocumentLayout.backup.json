@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programacion\\prueba.net\\BE-CRUDMascotas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3057AC-E120-439C-9F8E-9C6B1D835BC5}|BE-CRUDMascotas\\BE-CRUDMascotas.csproj|d:\\programacion\\prueba.net\\be-crudmascotas\\be-crudmascotas\\controllers\\mascotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3057AC-E120-439C-9F8E-9C6B1D835BC5}|BE-CRUDMascotas\\BE-CRUDMascotas.csproj|solutionrelative:be-crudmascotas\\controllers\\mascotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3057AC-E120-439C-9F8E-9C6B1D835BC5}|BE-CRUDMascotas\\BE-CRUDMascotas.csproj|d:\\programacion\\prueba.net\\be-crudmascotas\\be-crudmascotas\\models\\repository\\mascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3057AC-E120-439C-9F8E-9C6B1D835BC5}|BE-CRUDMascotas\\BE-CRUDMascotas.csproj|solutionrelative:be-crudmascotas\\models\\repository\\mascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3057AC-E120-439C-9F8E-9C6B1D835BC5}|BE-CRUDMascotas\\BE-CRUDMascotas.csproj|d:\\programacion\\prueba.net\\be-crudmascotas\\be-crudmascotas\\models\\repository\\imascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3057AC-E120-439C-9F8E-9C6B1D835BC5}|BE-CRUDMascotas\\BE-CRUDMascotas.csproj|solutionrelative:be-crudmascotas\\models\\repository\\imascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3057AC-E120-439C-9F8E-9C6B1D835BC5}|BE-CRUDMascotas\\BE-CRUDMascotas.csproj|d:\\programacion\\prueba.net\\be-crudmascotas\\be-crudmascotas\\migrations\\20241017231731_v0.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3057AC-E120-439C-9F8E-9C6B1D835BC5}|BE-CRUDMascotas\\BE-CRUDMascotas.csproj|solutionrelative:be-crudmascotas\\migrations\\20241017231731_v0.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MascotaRepository.cs",
+              "DocumentMoniker": "D:\\programacion\\prueba.net\\BE-CRUDMascotas\\BE-CRUDMascotas\\Models\\Repository\\MascotaRepository.cs",
+              "RelativeDocumentMoniker": "BE-CRUDMascotas\\Models\\Repository\\MascotaRepository.cs",
+              "ToolTip": "D:\\programacion\\prueba.net\\BE-CRUDMascotas\\BE-CRUDMascotas\\Models\\Repository\\MascotaRepository.cs",
+              "RelativeToolTip": "BE-CRUDMascotas\\Models\\Repository\\MascotaRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:31:31.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMascotaRepository.cs",
+              "DocumentMoniker": "D:\\programacion\\prueba.net\\BE-CRUDMascotas\\BE-CRUDMascotas\\Models\\Repository\\IMascotaRepository.cs",
+              "RelativeDocumentMoniker": "BE-CRUDMascotas\\Models\\Repository\\IMascotaRepository.cs",
+              "ToolTip": "D:\\programacion\\prueba.net\\BE-CRUDMascotas\\BE-CRUDMascotas\\Models\\Repository\\IMascotaRepository.cs*",
+              "RelativeToolTip": "BE-CRUDMascotas\\Models\\Repository\\IMascotaRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:03:41.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MascotaController.cs",
+              "DocumentMoniker": "D:\\programacion\\prueba.net\\BE-CRUDMascotas\\BE-CRUDMascotas\\Controllers\\MascotaController.cs",
+              "RelativeDocumentMoniker": "BE-CRUDMascotas\\Controllers\\MascotaController.cs",
+              "ToolTip": "D:\\programacion\\prueba.net\\BE-CRUDMascotas\\BE-CRUDMascotas\\Controllers\\MascotaController.cs",
+              "RelativeToolTip": "BE-CRUDMascotas\\Controllers\\MascotaController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:09:49.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241017231731_v0.1.cs",
+              "DocumentMoniker": "D:\\programacion\\prueba.net\\BE-CRUDMascotas\\BE-CRUDMascotas\\Migrations\\20241017231731_v0.1.cs",
+              "RelativeDocumentMoniker": "BE-CRUDMascotas\\Migrations\\20241017231731_v0.1.cs",
+              "ToolTip": "D:\\programacion\\prueba.net\\BE-CRUDMascotas\\BE-CRUDMascotas\\Migrations\\20241017231731_v0.1.cs",
+              "RelativeToolTip": "BE-CRUDMascotas\\Migrations\\20241017231731_v0.1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T23:17:31.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
